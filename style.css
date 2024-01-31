@@ -48,6 +48,10 @@ img {
   height:210px;
 }
 
+a {
+  color:#C70039;
+}
+
 a:link {
   color:#C70039;
 }
