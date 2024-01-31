@@ -11,9 +11,10 @@ h1, h2, h3 {
 p {
   margin: 0px auto;
   font-family:'Roboto';
-  font-size:17px;
+  font-size:24px;
   font-weight:bold;
   padding:10px;
+  line-height:4px;
 }
 
 ul {
