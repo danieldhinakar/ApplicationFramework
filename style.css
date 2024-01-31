@@ -95,7 +95,7 @@ a:visited:hover {
 
 #footer .social li a:link {
    color:#C70039;
-   text-decoration:none;
+   text-decoration:underline;
 }
 
 #footer .social li a:visited:hover {
