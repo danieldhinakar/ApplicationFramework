@@ -46,7 +46,12 @@ img {
 }
 
 
-
+#content {
+  font-family:"Roboto";
+  background-color:;
+  margin:0px auto;
+  padding:40px;
+}
 
 
 
