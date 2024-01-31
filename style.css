@@ -83,9 +83,13 @@ a:visited:hover {
   list-style-type: none;
 }
 
+#footer li {
+ margin:0px auto;
+}
 
-
-
+#footer li a {
+  color:#C70039
+}
 
 
 
