@@ -84,21 +84,21 @@ a:visited:hover {
   list-style-type: none;
 }
 
-#footer li {
+#footer .social li {
  margin:0px auto;
 }
 
-#footer li a {
+#footer .social  li a {
   color:#C70039
   
 }
 
-#footer li a:link {
+#footer .social li a:link {
    color:#C70039;
    text-decoration:underline;
 }
 
-#footer li a:visited:hover {
+#footer .social li a:visited:hover {
   color:#C70039;
   text-decoration:underline;
 }
