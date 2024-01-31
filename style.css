@@ -82,7 +82,12 @@ a:hover {
   padding:40px;
   font-size:27px;
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-  
+  background:
+linear-gradient(63deg, #000 23%, transparent 23%) 7px 0,
+linear-gradient(63deg, transparent 74%, #000 78%),
+linear-gradient(63deg, transparent 34%, #000 38%, #000 58%, transparent 62%),
+#111;
+background-size: 16px 48px;
   
 #footer .social {
   list-style-type: none;
