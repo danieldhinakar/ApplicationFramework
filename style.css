@@ -45,6 +45,18 @@ img {
   height:210px;
 }
 
+a:link {
+  color:#;
+}
+
+a:visited {
+  color:#;
+  text-decoration:underline;
+}
+
+a:hover {
+  color:#;
+}
 
 #content {
   font-family:"Roboto";
