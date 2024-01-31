@@ -49,14 +49,11 @@ a:link {
   color:#C70039;
 }
 
-a:visited {
+a:visited:hover {
   color:#C70039;
   text-decoration:underline;
 }
 
-a:hover {
-  color:#C70039;
-}
 
 #content {
   font-family:"Roboto";
