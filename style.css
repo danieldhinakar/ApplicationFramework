@@ -57,11 +57,15 @@ a:link {
    text-decoration:underline;
 }
 
-a:visited:hover {
+a:visited {
   color:#C70039;
   text-decoration:underline;
 }
 
+a:hover {
+ color:#C70039;
+  text-decoration:underline;
+}
 
 #content {
   font-family: 'Alegreya', serif;
@@ -93,7 +97,12 @@ a:visited:hover {
   text-decoration:underline;
 }
 
-#Footer .social a:visited:hover {
+#footer .social a:visited {
+  color:#C70039;
+  text-decoration:underline;
+}
+
+#footer .social a:hover {
   color:#C70039;
   text-decoration:underline;
 }
