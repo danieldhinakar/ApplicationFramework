@@ -2,9 +2,8 @@
 body {
   margin:0px auto;
   display: flex;
-  box-sizing: border-box;
   min-height: 100vh;
-  flex-flow: column;
+ 
 }
 
 h1, h2, h3 {
