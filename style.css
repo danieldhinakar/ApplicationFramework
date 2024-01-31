@@ -48,21 +48,21 @@ img {
   height:210px;
 }
 
-.a {
+a {
   color:#C70039;
 }
 
-.a:link {
+a:link {
    color:#C70039;
    text-decoration:underline;
 }
 
-.a:visited {
+a:visited {
   color:#C70039;
   text-decoration:underline;
 }
 
-.a:hover {
+a:hover {
  color:#C70039;
   text-decoration:underline;
 }
