@@ -84,5 +84,16 @@ a:visited:hover {
   list-style-type: none;
 }
 
+#footer .social a {
+ color:#C70039;
+}
 
+#footer .social a:link {
+  color:#C70039;
+  text-decoration:underline;
+}
 
+#Footer .social a:visited:hover {
+  color:#C70039;
+  text-decoration:underline;
+}
