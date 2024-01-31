@@ -84,28 +84,5 @@ a:visited:hover {
   list-style-type: none;
 }
 
-#footer .social  a {
-  color:#C70039;
-  }
-
-#footer .social li {
- margin:0px auto;
-}
-
-#footer .social  li a {
-  color:#C70039
-  
-}
-
-#footer .social li a:link {
-   color:#C70039;
-   text-decoration:underline;
-}
-
-#footer .social li a:visited:hover {
-  color:#C70039;
-  text-decoration:underline;
-}
-
 
 
