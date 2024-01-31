@@ -69,6 +69,7 @@ a:hover {
 
 #content {
   font-family: 'Alegreya', serif;
+  width:100%;
   background-color:#FFFFFF;
   margin:0px auto;
   padding:40px;
@@ -77,6 +78,7 @@ a:hover {
 
 #footer {
   font-family:'Alegreya',serif;
+  width:100%;
   background-color:#131a22;
   margin:0px auto;
   padding:40px;
