@@ -90,10 +90,18 @@ a:visited:hover {
 
 #footer li a {
   color:#C70039
-  text-decoration:none;
+  
 }
 
+#footer li a:link {
+   color:#C70039;
+   text-decoration:underline;
+}
 
+#footer li a:visited:hover {
+  color:#C70039;
+  text-decoration:underline;
+}
 
 
 
