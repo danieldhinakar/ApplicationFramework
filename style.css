@@ -54,12 +54,9 @@ a {
   color:#C70039;
 }
 
-a:link {
-   color:#C70039;
-   text-decoration:underline;
-}
 
-a:visited:hover {
+
+a:link:visited:hover {
   color:#C70039;
   text-decoration:underline;
 }
