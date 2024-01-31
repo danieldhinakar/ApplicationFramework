@@ -84,6 +84,10 @@ a:visited:hover {
   list-style-type: none;
 }
 
+#footer .social  a {
+  color:#C70039;
+  }
+
 #footer .social li {
  margin:0px auto;
 }
