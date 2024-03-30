@@ -37,27 +37,27 @@ width:240px;
 }
 
 a:link  {
- color:#f72;
+ color:#fbeee0;
  text-decoration:none;
 }
 
 a:visited {
-  color:#f72;
+  color:#fbeee0;
   text-decoration:none;
 }
 
 a:hover {
- color:#f72;
+ color:#fbeee0;
  text-decoration:underline;
 }
 
 a:active {
- color:#f72;
+ color:#fbeee0;
  text-decoration:underline;
 }
 
 a:focus {
-  color:#f72;
+  color:#fbeee0;
 }
 
 
@@ -65,7 +65,7 @@ p {
 font-family:'Alegreya';
 font-weight:normal;
 font-size:24px;
-color:#000000;
+color:#333;
 
 
 }
