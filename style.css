@@ -7,6 +7,7 @@ h1 {
  font-family:'Alegreya';
  font-size:120px;
  font-weight:bold;
+ color:#000000;
 }
 
 h2 {
@@ -64,7 +65,7 @@ p {
 font-family:'Alegreya';
 font-weight:normal;
 font-size:24px;
-
+color:#000000;
 
 
 }
