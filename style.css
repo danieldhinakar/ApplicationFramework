@@ -1,58 +1,13 @@
 
 body {
   margin:0px auto;
+  background-color:none; 
+}
+
+  
+
+  
+  
  
- 
-}
-
-h1, h2, h3 {
-  font-family: 'Roboto', sans-serif;
-  
-}
-
-p {
-  margin: 0px auto;
-  font-family: 'Alegreya', serif;
-  font-size:27px;
-  font-weight:bold;
-  padding:10px;
-  line-height:100%;
-  
-  
-  
-}
-
-ul {
-  font-family:'Alegreya',serif;
-}
-
-small {
-  font-family: 'Roboto';
-}
-
-
-label {
-  font-family: 'Roboto';
-}
-
-ol {
-  margin: 0px;
-
-}
-ol li {
-  margin: 0px;
-  
-}
-
-img {
-  margin:0px auto;
-  width:210px;
-  height:210px;
-}
-
-a {
-  color:#C70039;
-}
-
 
 
