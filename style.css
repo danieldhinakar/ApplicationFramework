@@ -35,6 +35,10 @@ height:240px;
 width:240px;
 }
 
+a {
+ color:#f72
+}
+
 p {
 font-family:'Alegreya';
 font-weight:normal;
