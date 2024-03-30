@@ -55,6 +55,10 @@ a:active {
  text-decoration:underline;
 }
 
+a:focus {
+  color:#f72;
+}
+
 
 p {
 font-family:'Alegreya';
