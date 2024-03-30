@@ -32,8 +32,8 @@ font-family:'Alegreya';
 
 img {
 border-radius:50%;
-height:140px;
-width:140px;
+height:240px;
+width:240px;
 }
 
 a:link  {
@@ -66,7 +66,7 @@ font-family:'Alegreya';
 font-weight:bold;
 font-size:24px;
 color:#010203;
-float:right;
+float:center;
 
 }
 
