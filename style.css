@@ -61,7 +61,7 @@ a:focus {
 }
 
 
-p {
+p.intro {
 font-family:'Alegreya';
 font-weight:bold;
 font-size:24px;
