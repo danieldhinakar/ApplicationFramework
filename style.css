@@ -37,7 +37,24 @@ width:240px;
 
 a:link  {
  color:#f72;
+ text-decoration:none;
 }
+
+a:visited {
+  color:#f72;
+  text-decoration:none;
+}
+
+a:hover {
+ color:#f72;
+ text-decoration:underline;
+}
+
+a:active {
+ color:#f72;
+ text-decoration:underline;
+}
+
 
 p {
 font-family:'Alegreya';
