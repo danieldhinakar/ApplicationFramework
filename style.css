@@ -37,27 +37,27 @@ width:240px;
 }
 
 a:link  {
- color:#fbeee0;
+ color:#f72;
  text-decoration:none;
 }
 
 a:visited {
-  color:#fbeee0;
+  color:#f72;
   text-decoration:none;
 }
 
 a:hover {
- color:#fbeee0;
+ color:#f72;
  text-decoration:underline;
 }
 
 a:active {
- color:#fbeee0;
+ color:#f72;
  text-decoration:underline;
 }
 
 a:focus {
-  color:#fbeee0;
+  color:#72;
 }
 
 
