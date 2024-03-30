@@ -66,13 +66,12 @@ font-family:'Alegreya';
 font-weight:bold;
 font-size:24px;
 color:#010203;
-text-align:center;
+float:right;
 
 }
 
 
 #content {
-
 height:100%;
 width:100%;
 background-color:FFFFFF;
