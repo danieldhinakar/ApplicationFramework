@@ -7,9 +7,10 @@ body {
 p {
 
 font-family:'Alegreya';
-background-color:#333;
+color:#333;
 font-size:24px;
 padding:21px;
+font-weight:bold;
 
 }
 
