@@ -7,7 +7,7 @@ h1 {
  font-family:'Alegreya';
  font-size:120px;
  font-weight:bold;
- color:#000000;
+ color:#333;
 }
 
 h2 {
@@ -37,27 +37,27 @@ width:240px;
 }
 
 a:link  {
- color:#f72;
+ color:#f06;
  text-decoration:none;
 }
 
 a:visited {
-  color:#f72;
+  color:#f06;
   text-decoration:none;
 }
 
 a:hover {
- color:#f72;
+ color:#f06;
  text-decoration:underline;
 }
 
 a:active {
- color:#f72;
+ color:#f06;
  text-decoration:underline;
 }
 
 a:focus {
-  color:#72;
+  color:#f06;
 }
 
 
