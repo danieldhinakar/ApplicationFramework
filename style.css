@@ -3,7 +3,7 @@ body {
   margin:0px auto;
 }
  
-#h1 {
+h1.intro {
  font-family:'Alegreya';
  font-size:34px;
  font-weight:bold;
