@@ -3,7 +3,7 @@ body {
   margin:0px auto;
 }
  
-h1.intro {
+h1 {
  font-family:'Alegreya';
  font-size:34px;
  font-weight:bold;
@@ -61,12 +61,12 @@ a:focus {
 }
 
 
-p.intro {
+p {
 font-family:'Alegreya';
 font-weight:bold;
 font-size:24px;
 color:#333;
-width:100%;
+
 
 
 }
