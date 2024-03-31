@@ -44,25 +44,40 @@ width:240px;
 a:link  {
  color:#ff0000;
  text-decoration:none;
+ font-size:30px;
+ font-family:'Alegreya';
+
 }
 
 a:visited {
   color:#ff0000;
   text-decoration:none;
+  font-size:30px;
+  font-family:'Alegreya';
+
 }
 
 a:hover {
  color:#ff0000;
  text-decoration:underline;
+ font-size:30px;
+ font-family:'Alegreya';
+
 }
 
 a:active {
  color:#ff0000;
  text-decoration:underline;
+ font-size:30px;
+ font-family:'Alegreya';
+
 }
 
 a:focus {
   color:#ff0000;
+ font-size:30px;
+ font-family:'Alegreya';
+
 }
 
 ul {
