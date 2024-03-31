@@ -114,6 +114,7 @@ background: linear-gradient(to right, #FFFFFF 0%, #FFFFFF 33%, #FBEEE0 100%);
 #articles {
 height:100%;
 padding:71px;
+float:center;
 width:100%;
 background-color:#FFFFFF;
 font-family:'Alegreya';
