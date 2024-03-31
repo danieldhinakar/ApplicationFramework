@@ -72,7 +72,7 @@ list-style-type: none;
 }
 
 li {
- display:inline;
+ display:inline-block;
 }
 
 p {
