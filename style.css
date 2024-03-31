@@ -10,6 +10,11 @@ h1 {
  color:#010203;
 }
 
+h1::first-letter {
+    font-size: 200%;
+     color:#010203;
+}
+
 h2 {
  font-family:'Alegreya';
 }
