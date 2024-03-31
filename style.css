@@ -10,10 +10,8 @@ h1 {
  color:#010203;
 }
 
-h1::first-letter {
-    font-size: 200%;
-     color:#010203;
-}
+
+
 
 h2 {
  font-family:'Alegreya';
@@ -93,39 +91,6 @@ list-style-type: none;
 }
 
 
-p {
-font-family:'Alegreya';
-font-weight:normal;
-font-size:24px;
-color:#010203;
-width:100%;
-height:100%;
-
-}
 
 
-#content {
-height:100%;
-width:100%;
-background-color:FFFFFF;
-padding:71px;
-font-family:'Alegreya';
-box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-background: #FFFFFF;
-background: linear-gradient(to right, #FFFFFF 0%, #FFFFFF 33%, #FBEEE0 100%);
 
-}
-
-
-#articles {
-height:100%;
-padding:71px;
-width:100%;
-background-color:#FFFFFF;
-font-family:'Alegreya';
-box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-background: #FBEEE0;
-background: linear-gradient(to right, #FBEEE0 0%, #FBEEE0 33%, #FFFFFF 70%);
-
-
-}
