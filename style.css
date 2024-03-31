@@ -17,6 +17,11 @@ h1::first-letter {
 
 h2 {
  font-family:'Alegreya';
+ font-size:200%;
+ font-weight:bold;
+ color:#010203;
+ text-align:center;
+
 }
 
 h3 {
