@@ -77,7 +77,7 @@ li {
 
 p {
 font-family:'Alegreya';
-font-weight:bold;
+font-weight:normal;
 font-size:24px;
 color:#010203;
 width:100%;
@@ -88,7 +88,7 @@ width:100%;
 #content {
 
 height:100%;
-width:auto;
+width:100%;
 background-color:FFFFFF;
 padding:71px;
 font-family:'Alegreya';
