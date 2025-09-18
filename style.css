@@ -42,6 +42,12 @@ h6 {
 font-family:'Alegreya';
 }
 
+p {
+font-family:'Alegreya';
+font-size:18px; 
+margin: 10px 1px 15px 50px;
+}
+
 img {
 border-radius:50%;
 }
@@ -129,6 +135,7 @@ list-style-type: none;
   width:100%;
   height:30px;
 }
+
 
 
 
