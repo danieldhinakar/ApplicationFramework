@@ -40,8 +40,6 @@ font-family:'Alegreya';
 
 img {
 border-radius:50%;
-height:240px;
-width:240px;
 }
 
 a:link  {
@@ -121,6 +119,7 @@ list-style-type: none;
   width:100%;
   height:30px;
 }
+
 
 
 
