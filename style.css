@@ -46,7 +46,7 @@ font-family:'Alegreya';
 p {
 font-family:'Alegreya';
 font-size:14px; 
-text-align: justify;
+text-align:right;
   
 }
 
@@ -166,6 +166,7 @@ background-color: #EC173A;
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: @screen-lg-min) { ... }
+
 
 
 
