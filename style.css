@@ -49,6 +49,10 @@ text-align:right;
 
 img {
 border-radius:50%;
+max-width: 100%;  
+height:auto;
+float:right;
+    
 }
 
 a:link  {
@@ -151,6 +155,7 @@ background-color: #EC173A;
 
 
     
+
 
 
 
