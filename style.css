@@ -150,6 +150,28 @@ background-color: #EC173A;
 
 
 
+    .container {
+        display: flex; /* Enables Flexbox */
+        flex-wrap: wrap; /* Allows columns to wrap to the next line */
+        gap: 20px; /* Adds space between columns */
+    }
+
+    .column {
+        flex: 1; /* Allows columns to grow and shrink to fill available space */
+        min-width: 250px; /* Minimum width before wrapping */
+        background-color: #f0f0f0;
+        padding: 20px;
+    }
+
+    /* Media query for smaller screens */
+    @media (max-width: 768px) {
+        .container {
+            flex-direction: column; /* Stacks columns vertically */
+        }
+        .column {
+            width: 100%; /* Columns take full width on small screens */
+        }
+    }
 
 
 
