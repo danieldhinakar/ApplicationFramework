@@ -119,7 +119,6 @@ list-style-type: none;
 
 #content {
   background-color:#ffcccc;
-  margin:0 20px;
   width:100%;
   height:400px;  
   font-family:'Alegreya';
@@ -130,6 +129,7 @@ list-style-type: none;
   width:100%;
   height:30px;
 }
+
 
 
 
