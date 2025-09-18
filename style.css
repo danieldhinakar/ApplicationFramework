@@ -109,11 +109,16 @@ list-style-type: none;
 #slider {
   background-color:#ff8000;
   width:100%;
-  height:150px;
-  }
+  height:400px;
+  font-family:'Alegreya';
+
+}
+
+
+  
 
 #content {
-  background-color:#ffbf00;
+  background-color:#ffcccc;
   width:100%;
   height:400px;  
   font-family:'Alegreya';
@@ -124,6 +129,7 @@ list-style-type: none;
   width:100%;
   height:30px;
 }
+
 
 
 
