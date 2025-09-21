@@ -112,6 +112,7 @@ list-style-type: none;
 .container {
   margin-right: auto;
   margin-left: auto;
+  width:100%;
 }
 
 
