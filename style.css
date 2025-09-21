@@ -3,13 +3,11 @@
 	padding:0;
 }
 
-html {
-	height:100%;
-}
 
-body {
-  margin:0px auto;  
+
+html, body {
   height:100%;
+  margin:0;
 }
  
 h1 {
@@ -163,6 +161,7 @@ background-color: #EC173A;
 
 
     
+
 
 
 
