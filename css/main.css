@@ -4,11 +4,12 @@
 	padding:0;
 }
 
+html {
+	height:100%;
+}
 
-
-html, body {
-  height:100%;
-  margin:0;
+ body {
+  margin:0px;
 }
  
 h1 {
