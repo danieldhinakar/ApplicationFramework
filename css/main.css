@@ -1,10 +1,177 @@
+
 * {
 	margin:0;
 	padding:0;
 }
 
 
+
 html, body {
   height:100%;
   margin:0;
 }
+ 
+h1 {
+ font-family:'Alegreya';
+ font-size:200%;
+ font-weight:bold;
+ color:#010203;
+}
+
+
+
+
+h2 {
+ font-family:'Alegreya';
+ font-size:40px;
+ font-weight:bold;
+ color:#010203;
+ text-align:center;
+
+}
+
+h3 {
+font-family:'Alegreya';
+}
+
+h4 {
+font-family:'Alegreya';
+}
+
+h5 {
+font-family:'Alegreya';
+}
+
+h6 {
+font-family:'Alegreya';
+}
+
+p {
+font-family:'Alegreya';
+font-size:14px; 
+text-align:right; 
+  
+}
+
+img {
+border-radius:50%;
+max-width: 100%;  
+height:auto;
+float:right;
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+   
+}
+
+a:link  {
+ color:#010203;
+ text-decoration:none;
+ font-size:14px;
+ font-family:'Alegreya';
+
+}
+
+a:visited {
+  color:#010203;
+  text-decoration:none;
+  font-size:14px;
+  font-family:'Alegreya';
+
+}
+
+a:hover {
+ color:#010203;
+ text-decoration:underline;
+ font-size:14px;
+ font-family:'Alegreya';
+
+}
+
+a:active {
+ color:#010203;
+ text-decoration:underline;
+ font-size:14px;
+ font-family:'Alegreya';
+
+}
+
+a:focus {
+  color:#010203;
+ font-size:14px;
+ font-family:'Alegreya';
+
+}
+
+ul {
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float:center;
+}
+
+
+#wrapper {
+  background-color:#ffff00;
+  width:100%;
+ 
+
+  }
+
+#header {
+  background-color:#bfff00;
+  width:100%;
+  height:30px;
+  }
+
+#slider {
+  background-color:#ff8000;
+  width:100%;
+  height:400px;
+  font-family:'Alegreya';
+
+}
+
+
+  
+
+#content {
+  background-color:#ffcccc;
+  background:
+  linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0,
+  linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0,
+  linear-gradient(315deg, #ECEDDC 25%, transparent 25%),
+ linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+background-size: 100px 100px;
+background-color: #EC173A;
+  margin:0px auto;
+  width:100%;
+  height:301px;  
+  font-family:'Alegreya';
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+  
+}
+
+#footer {
+  background-color:#f06;
+  width:100%;
+  height:30px;
+  font-family:'Alegreya';
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+	
