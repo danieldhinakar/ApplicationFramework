@@ -173,7 +173,9 @@ background-color: #EC173A;
       /* CSS rules for large devices and up */
 	}
     
-
+ @media (min-width: 1200px) {
+      /* CSS rules for extra large devices and up */
+	}
 
 
 
