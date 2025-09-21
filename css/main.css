@@ -160,6 +160,11 @@ background-color: #EC173A;
   
 }
 
+@media (min-width: 576px) {
+      /* CSS rules for small devices and up */
+	}
+
+
 @media (min-width: 768px) {
       /* CSS rules for medium devices and up */
 	}
