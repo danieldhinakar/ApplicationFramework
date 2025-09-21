@@ -109,6 +109,11 @@ list-style-type: none;
   float:center;
 }
 
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 
 #wrapper {
   background-color:#ffff00;
