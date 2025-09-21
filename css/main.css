@@ -171,12 +171,20 @@ background-color: #EC173A;
 
 /* Portrait tablet to Landscape and Desktop */
 @media (min-width:768px) and (max-width:991px) {    
-
+       .container {
+		   width:800px; 
+	   }
+	   
 /* Desktop and Laptops */ 
 @media (min-width:992px) and (max-width:1200px) {
-	
+	 .container {
+		 width:980px;
+	 }
 /* Large screens */
 @media (min-width:1201px) and (max-width:2200px) {
+	.container {
+		width:1180px;
+	}
 }
 	
 	
