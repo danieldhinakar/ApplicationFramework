@@ -132,6 +132,8 @@ list-style-type: none;
 	padding:20px;
 	border-top:2px solid #e5e5e5;
 	border-bottom:2px solid #e5e5e5;
+	font-family: 'Alegreya';
+	font-size:16px;
 }
 
 #header {
