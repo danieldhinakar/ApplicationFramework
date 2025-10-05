@@ -126,7 +126,7 @@ list-style-type: none;
 
   }
 
-#navigation {
+.navigation {
 	background-color:#FFFFFF;
 	width:100%;
 	height:60px;
