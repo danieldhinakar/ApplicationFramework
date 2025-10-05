@@ -151,12 +151,46 @@ list-style-type: none;
   height:100%;
   font-family:'Alegreya';
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-  
+  animation: rotate-bg-color 10s infinite;
   
 }
 
 
-  
+  @keyframes rotate-bg-color {
+  0% {
+    background-color: #FFFFFF;
+  }
+  10% {
+    background-color: #e5e5e5;
+  }
+  20% {
+    background-color: #FFFFFF;
+  }
+  30% {
+    background-color: #e5e5e5;
+  }
+  40% {
+    background-color: #FFFFFF;
+  }
+  50% {
+    background-color: #e5e5e5;
+  }
+  60% {
+    background-color: #e5e5e5;
+  }
+  70% {
+    background-color: #FFFFFF;
+  }
+  80% {
+    background-color: #e5e5e5;
+  }
+  90% {
+    background-color: #FFFFFF;
+  }
+  100% {
+    background-color: #e5e5e5;
+  }
+}
 
 #content {
   background-color:#ECEDDC;
