@@ -161,34 +161,34 @@ list-style-type: none;
     background-color: #FFFFFF;
   }
   10% {
-    background-color: #e5e5e5;
+    background-color: #f5f5f5;
   }
   20% {
     background-color: #FFFFFF;
   }
   30% {
-    background-color: #e5e5e5;
+    background-color: #f5f5f5;
   }
   40% {
     background-color: #FFFFFF;
   }
   50% {
-    background-color: #e5e5e5;
+    background-color: #f5f5f5;
   }
   60% {
-    background-color: #e5e5e5;
+    background-color: #FFFFFF;
   }
   70% {
-    background-color: #FFFFFF;
+    background-color: #f5f5f5;
   }
   80% {
-    background-color: #e5e5e5;
-  }
-  90% {
     background-color: #FFFFFF;
   }
+  90% {
+    background-color: #f5f5f5;
+  }
   100% {
-    background-color: #e5e5e5;
+    background-color: #FFFFFF;
   }
 }
 
