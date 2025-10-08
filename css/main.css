@@ -130,7 +130,7 @@ list-style-type: none;
 	background-color:#FFFFFF;
 	width:100%;
 	height:60px;
-	padding:0px;
+	padding:20px;
 	border-top:2px solid #e5e5e5;
 	border-bottom:2px solid #e5e5e5;
 	font-family: 'Alegreya';
@@ -142,7 +142,7 @@ list-style-type: none;
   width:100%;
   height:30px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  padding:25px;
+  
 }
 
 #slider {
