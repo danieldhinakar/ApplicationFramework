@@ -178,6 +178,39 @@ list-style-type: none;
 }
 
 
+.navbar-inverse {
+  background:#FFFFFF !important;
+  border-bottom:2px solid #e5e5e5; 
+  border-top:2px solid #e5e5e5;
+}
+
+.navbar-brand {
+  font:22px Alegreya !important;
+  text-transform:uppercase;
+  color:#FFF !important;
+  letter-spacing:2px;
+  margin-top:2px;
+}
+ .navbar-inverse {
+  background:#FFFFFF !important;
+  border-bottom:4px solid #FFFFFFF !important;
+}
+
+.navbar-brand {
+  font:12px Lato !important;
+  text-transform:uppercase;
+  color:#FFF !important;
+  letter-spacing:2px;
+  margin-top:2px;
+}
+
+.icon-bar{
+  background:#a3bfc6 !important;
+}
+
+
+
+
 /* media queries for small medium large devices */
 
 /* Portrait tablet to Landscape and Desktop */
