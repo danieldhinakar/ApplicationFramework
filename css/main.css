@@ -179,9 +179,9 @@ list-style-type: none;
 
 
 .navbar-inverse {
-  background:#FFFFFF !important;
-  border-bottom:2px solid #e5e5e5; 
-  border-top:2px solid #e5e5e5;
+  background:#333333 !important;
+  border-bottom:2px solid #FFFFFF; 
+  border-top:2px solid #FFFFFF;
 }
 
 .navbar-brand {
@@ -192,7 +192,7 @@ list-style-type: none;
   margin-top:2px;
 }
  .navbar-inverse {
-  background:#FFFFFF !important;
+  background:#333333 !important;
   border-bottom:4px solid #FFFFFFF !important;
 }
 
