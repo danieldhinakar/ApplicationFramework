@@ -72,7 +72,7 @@ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 a:link  {
- color:#FFFFFF;
+ color:#ff8000;
  text-decoration:none;
  font-size:16px;
  font-family:'Alegreya';
@@ -80,7 +80,7 @@ a:link  {
 }
 
 a:visited {
-  color:#FFFFFF;
+  color:#ff8000;
   text-decoration:none;
   font-size:16px;
   font-family:'Alegreya';
@@ -88,7 +88,7 @@ a:visited {
 }
 
 a:hover {
- color:#FFFFFF;
+ color:#ff8000;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
@@ -96,7 +96,7 @@ a:hover {
 }
 
 a:active {
- color:#FFFFFF;
+ color:#ff8000;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
@@ -104,7 +104,7 @@ a:active {
 }
 
 a:focus {
-  color:#FFFFFF;
+  color:#ff8000;
  font-size:16px;
  font-family:'Alegreya';
 
