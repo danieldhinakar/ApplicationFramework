@@ -55,6 +55,11 @@ letter-spacing:0px;
 padding:20px;
 width:100%;     
 }
+p::first-letter {
+  font-size: 200%;
+  font-weight: bold;
+  color:#ff8000;
+}
 
 img {
 border-radius:50%;
