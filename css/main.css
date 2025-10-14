@@ -186,7 +186,7 @@ footer {
 }
 
 footer a:link  {
- color:#010203;
+ color:#FFFFFF;
  text-decoration:none;
  font-size:16px;
  font-family:'Alegreya';
@@ -194,7 +194,7 @@ footer a:link  {
 }
 
 footer a:visited {
-  color:#010203;
+  color:#FFFFFF;
   text-decoration:none;
   font-size:16px;
   font-family:'Alegreya';
@@ -202,7 +202,7 @@ footer a:visited {
 }
 
 footer a:hover {
- color:#010203;
+ color:#FFFFFF;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
@@ -210,7 +210,7 @@ footer a:hover {
 }
 
 footer a:active {
- color:#010203;
+ color:#FFFFFF;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
@@ -218,7 +218,7 @@ footer a:active {
 }
 
 footer a:focus {
-  color:#010203;
+  color:#FFFFFF;
  font-size:16px;
  font-family:'Alegreya';
 
