@@ -111,6 +111,17 @@ list-style-type: none;
 	
 }
 
+
+.rochester-regular {
+  font-family: "Rochester", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
 .container {
   margin-right: auto;
   margin-left: auto;
