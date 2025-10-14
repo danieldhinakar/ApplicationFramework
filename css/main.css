@@ -72,41 +72,42 @@ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 a:link  {
- color:#F87726;
+ color:#F2AF13;
  text-decoration:none;
  font-size:16px;
  font-family:'Alegreya';
-
+ font-weight:bold;
 }
 
 a:visited {
-  color:#F87726;
+  color: #F2AF13;
   text-decoration:none;
   font-size:16px;
   font-family:'Alegreya';
-
+  font-weight:bold;
 }
 
 a:hover {
- color:#F87726;
+ color: #F2AF13;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
-
+ font-weight:bold;
 }
 
 a:active {
- color:#F87726;
+ color: #F2AF13;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
-
+ font-weight:bold;
 }
 
 a:focus {
-  color:#F87726;
+  color: #F2AF13;
  font-size:16px;
  font-family:'Alegreya';
+ font-weight:bold;
 
 }
 
