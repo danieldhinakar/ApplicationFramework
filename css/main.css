@@ -214,7 +214,7 @@ footer {
 }
 
 footer a:link  {
- color:#FFFFFF;
+ color:#F2AF13;
  text-decoration:none;
  font-size:19px;
  font-family:'Alegreya';
@@ -222,7 +222,7 @@ footer a:link  {
 }
 
 footer a:visited {
-  color:#FFFFFF;
+  color:#F2AF13;
   text-decoration:none;
   font-size:19px;
   font-family:'Alegreya';
@@ -230,7 +230,7 @@ footer a:visited {
 }
 
 footer a:hover {
- color:#FFFFFF;
+ color:#F2AF13;
  text-decoration:underline;
  font-size:19px;
  font-family:'Alegreya';
@@ -238,7 +238,7 @@ footer a:hover {
 }
 
 footer a:active {
- color:#FFFFFF;
+ color:#F2AF13;
  text-decoration:underline;
  font-size:19px;
  font-family:'Alegreya';
@@ -246,7 +246,7 @@ footer a:active {
 }
 
 footer a:focus {
-  color:#FFFFFF;
+  color:#F2AF13;
  font-size:19px;
  font-family:'Alegreya';
 
