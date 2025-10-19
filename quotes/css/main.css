@@ -124,6 +124,28 @@ list-style-type: none;
 	
 }
 
+div:has(> blockquote) {
+  background-color: #ededed;
+  margin: 10px auto;
+  padding: 15px;
+  border-radius: 0px;
+  font-family:'Alegreya';
+  font-weight:bold;
+}
+
+
+blockquote p::before {
+  content: "\201C";
+}
+
+blockquote p::after {
+  content: "\201D";
+}
+
+blockquote + p {
+  text-align: right;
+}
+
 
 .rochester-regular {
   font-family: "Rochester", cursive;
