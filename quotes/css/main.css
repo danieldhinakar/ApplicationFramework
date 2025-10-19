@@ -125,9 +125,9 @@ list-style-type: none;
 }
 
 div:has(> blockquote) {
-  background-color: #ededed;
+  background-color:#ECEDDC;
   margin: 10px auto;
-  padding: 15px;
+  padding: 10px;
   border-radius: 0px;
   font-family:'Alegreya';
   font-weight:bold;
