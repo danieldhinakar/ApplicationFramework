@@ -126,8 +126,8 @@ list-style-type: none;
 
 div:has(> blockquote) {
   background-color:#ECEDDC;
-  margin: 10px auto;
-  padding: 10px;
+  margin: 0px auto;
+  padding: 5px;
   border-radius: 0px;
   font-family:'Alegreya';
   font-weight:bold;
