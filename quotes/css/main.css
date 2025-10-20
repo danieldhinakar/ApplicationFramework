@@ -223,7 +223,7 @@ blockquote + p {
   font-family:'Alegreya';
   font-size:41px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  padding:200%;
+  padding:0px;
   font-weight:bold;
   
 }
