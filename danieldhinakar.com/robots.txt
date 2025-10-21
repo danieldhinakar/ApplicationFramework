@@ -1,4 +1,17 @@
+User-agent: Googlebot
+Allow: /
+
+
 User-agent: *
 Allow: /
+
+Sitemap: https://danieldhinakar.com/sitemap.xml
+
+
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Allow: /  
 
 Sitemap: https://danieldhinakar.com/sitemap.xml
