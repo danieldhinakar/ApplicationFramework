@@ -66,5 +66,28 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+<url>
+    <loc>https://www.danieldhinakar.com/quotes/puzzle.html</loc>
+    <lastmod>2025-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>https://www.danieldhinakar.com/quotes/escape.html</loc>
+    <lastmod>2025-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>https://www.danieldhinakar.com/quotes </loc>
+    <lastmod>2025-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+
+
+
+
   
 </urlset>
