@@ -131,6 +131,7 @@ div:has(> blockquote) {
   border-radius: 0px;
   font-family:'Alegreya';
   font-weight:bold;
+  border-bottom:2px solid #f9f9f9;
 }
 
 
