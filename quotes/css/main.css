@@ -124,14 +124,13 @@ list-style-type: none;
 	
 }
 
- blockquote {
+ div:has(> blockquote) {
   background-color:#ECEDDC;
   margin: 0px auto;
   padding: 5px;
   border-radius: 0px;
   font-family:'Alegreya';
   font-weight:bold;
-  border-bottom:2px solid #ECEDDC;
 }
 
 
