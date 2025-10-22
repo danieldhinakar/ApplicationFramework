@@ -124,7 +124,7 @@ list-style-type: none;
 	
 }
 
-div:has(> blockquote) {
+ blockquote {
   background-color:#ECEDDC;
   margin: 0px auto;
   padding: 5px;
