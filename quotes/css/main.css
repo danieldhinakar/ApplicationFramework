@@ -149,6 +149,7 @@ blockquote + p {
 nav {
   border-bottom: 1px solid #333333;
   border-top:1px solid #333333;
+  background-color:#FFFFFF;
 }
 
 .crumbs ol {
@@ -163,7 +164,7 @@ nav {
 .crumb a::after {
   display: inline-block;
   color: black;
-  content: ">";
+  content:"\f054";
   font-size: 80%;
   font-weight: bold;
   padding: 0 3px;
