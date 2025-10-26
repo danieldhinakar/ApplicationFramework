@@ -148,6 +148,7 @@ blockquote + p {
 
 nav {
   border-bottom: 1px solid #333333;
+  border-top:1px solid #333333;
 }
 
 .crumbs ol {
