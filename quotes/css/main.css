@@ -164,7 +164,7 @@ nav {
 .crumb a::after {
   display: inline-block;
   color: black;
-  content:"f054";
+  content:"&#xf054";
   font-size: 80%;
   font-weight: bold;
   padding: 0 3px;
