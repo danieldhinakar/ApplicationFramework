@@ -76,14 +76,7 @@ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
    
 }
 
-a {
-  color:#F2AF13;
-  text-decoration: none;
-  font-family:'Alegreya';
-  font-size:14px;
-	
-  
-}                                            
+                                           
  a:link  {
  color:#F2AF13;
  text-decoration:none;
@@ -117,7 +110,7 @@ a {
 }
 
  a:focus {
-  color:#F2AF13;
+ color:#F2AF13;
  font-size:14px;
  font-family:'Alegreya';
 
