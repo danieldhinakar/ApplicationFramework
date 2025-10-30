@@ -12,6 +12,8 @@ padding:25px;
   border-bottom: 2px solid #e5e5e5;
   background-color:#FFFFFF;
   height:auto;
+  font-family: 'Alegreya';
+  font-size:25px;
 }
 
 .navbar-default {
@@ -103,6 +105,7 @@ padding:25px;
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
