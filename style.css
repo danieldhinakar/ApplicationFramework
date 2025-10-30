@@ -35,9 +35,9 @@
 }
 
 .navbar-nav > li {
-  font-family: 'Montserrat', sans-serif;
+  font-family:;Alegreya' ;
   font-size: 12px;
-  text-transform: uppercase;
+  text-transform:lowercase;
   letter-spacing: 1.5px;
 }
 
@@ -89,5 +89,6 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
