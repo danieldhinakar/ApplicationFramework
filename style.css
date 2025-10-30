@@ -1,3 +1,7 @@
+btn {
+padding:10px;
+}
+
 .container-responsive {
   max-width: 100%;
   margin: 0 auto;
@@ -99,6 +103,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
