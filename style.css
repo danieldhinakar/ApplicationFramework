@@ -6,11 +6,11 @@
 }
 
 .navbar-default {
-  background-color: #252b34;
-  border-color: transparent;
-  border: 0px;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  background-color:#FFFFFF;
+	border-top:2px solid #e5e5e5;
+	border-bottom:2px solid #e5e5e5;
+	font-family: 'Alegreya';
+	font-size:21px;
 }
 
 .navbar {
@@ -89,4 +89,5 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
