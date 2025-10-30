@@ -38,10 +38,10 @@
 }
 
 .navbar-nav > li {
-  font-family:;Alegreya' ;
+  font-family:'Alegreya' ;
   font-size: 12px;
   text-transform:lowercase;
-  letter-spacing: 1.5px;
+  letter-spacing:0px;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -92,6 +92,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
