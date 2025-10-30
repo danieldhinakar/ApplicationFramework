@@ -76,6 +76,10 @@ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
    
 }
 
+a {
+  color:#F2AF13;
+  text-decoration: none;
+}                                            
  a:link  {
  color:#F2AF13;
  text-decoration:none;
