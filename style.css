@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding-left: 20px;
   padding-right: 20px;
-  height:70px; 
+  
 }
 
 .navbar-default {
@@ -52,13 +52,12 @@
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   background-color: rgba(0, 0, 0, 0);
   color: #c5c6c7;
-   text-decoration:underline;
+   
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background-color: rgba(0, 0, 0, 0);
-  color: #323A45;
-  text-decoration:underline;
+  color: #323A4A;
 }
 
 .navbar-default .navbar-toggle {
@@ -95,6 +94,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
