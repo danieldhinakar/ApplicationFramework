@@ -2,7 +2,7 @@ a {
 text-decoration: none;
 }
 
-.twitter-share-button,  .fb-share-button {
+.twitter-share-button {
  margin: 10px 20px;
 }
 
@@ -109,6 +109,7 @@ text-decoration: none;
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
