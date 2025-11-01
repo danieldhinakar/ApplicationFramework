@@ -76,6 +76,9 @@ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
    
 }
 
+small {
+  font-size: 0.7em;
+}
                                            
  a:link  {
  color:#F2AF13;
