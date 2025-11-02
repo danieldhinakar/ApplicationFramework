@@ -190,7 +190,15 @@ list-style-type: none;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
   
+#intro {
+font-size: 24px;
+  font-weight: bold;
+  color: #D32F2F;
+  font-family:'Alegreya';
+}
 
+
+	
 #content {
   background-color:#ECEDDC;
   margin:0px auto;
