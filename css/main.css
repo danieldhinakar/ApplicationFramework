@@ -298,8 +298,9 @@ footer a:focus {
 
 }
 
-footer {
+footer li {
 	margin:-10px;
+	font-family:'Alegreya';
 }
 
 
