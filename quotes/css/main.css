@@ -204,6 +204,8 @@ nav {
 	border-bottom:2px solid #e5e5e5;
 	font-family: 'Alegreya';
 	font-size:21px;
+	position:fixed;
+	z-index:1000;
 }
 
 #header {
