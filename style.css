@@ -12,7 +12,7 @@
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-top: 2px solid #e5e5e5;
   border-bottom: 2px solid #e5e5e5;
-  background-color:#AAFF00;
+  background-color:#FFFFFF;
   height:auto;
   font-family: 'Alegreya';
   font-size:25px;
@@ -21,7 +21,7 @@
 }
 
 .navbar-default {
-  background-color:#AAFF00;
+  background-color:#FFFFFF;
 	font-family: 'Alegreya';
 	font-size:21px;
 	
@@ -109,6 +109,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
