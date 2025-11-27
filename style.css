@@ -52,7 +52,7 @@
 
 .navbar-nav > li {
   font-family:'Alegreya' ;
-  font-size: 24px;
+  font-size: 44px;
   text-transform:lowercase;
   letter-spacing:0px;
   font-weight:bold;
@@ -109,6 +109,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
 }
+
 
 
 
