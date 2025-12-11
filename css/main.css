@@ -184,7 +184,7 @@ nav {
 	background-color:#FFFFFF;
 	width:100%;
 	height:60px;
-	padding:0px;
+	padding:40px;
 	border-top:2px solid #e5e5e5;
 	border-bottom:2px solid #e5e5e5;
 	font-family: 'Alegreya';
@@ -196,7 +196,7 @@ nav {
   width:100%;
   height:30px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  margin:40px;
+  
 }
 
 #slider {
