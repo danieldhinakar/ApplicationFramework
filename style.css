@@ -82,7 +82,7 @@
 .navbar-toggle {
   background-color:#ff7733;
   border: 1px solid transparent;
-  border-radius: 0 0 0 0;
+  border-radius: #ff7733;
   margin-right: 0px;
 }
 
@@ -109,6 +109,7 @@
   border-top: 1px solid transparent;
   box-shadow: #ff7733;
 }
+
 
 
 
