@@ -56,19 +56,19 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #ff7733;
+  color: #F2AF13;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   background-color: rgba (255, 119,51) ;
-  color: #ff7733;
+  color: #F2AF13;
   text-decoration:underline;
    
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background-color: rgba (255, 119,51) ;
-  color: #ff7733;
+  color: #F2AF13;
  text-decoration:underline;
 }
 
@@ -88,7 +88,7 @@
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color:#ff7733;
+  background-color:#F2AF13
 }
 
 .navbar-toggle .icon-bar {
@@ -106,6 +106,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba (255, 119, 51) inset;
 }
+
 
 
 
