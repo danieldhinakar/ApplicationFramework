@@ -102,13 +102,14 @@
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border-color: rgba(0, 0, 0, 0);
+  border-color: #ff7733;
 }
 
 .navbar-collapse {
   border-top: 1px solid transparent;
-  box-shadow: 0 0 0 rgba(255, 255, 255, 0.0) inset;
+  box-shadow: #ff7733;
 }
+
 
 
 
