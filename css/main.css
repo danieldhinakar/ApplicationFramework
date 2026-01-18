@@ -83,7 +83,7 @@ small {
 }
                                            
  a:link  {
- color:#F2AF13;
+ color:#000000;
  text-decoration:none;
  font-size:16px;
  font-family:'Alegreya';
@@ -91,7 +91,7 @@ small {
 }
 
  a:visited {
-  color:#F2AF13;
+  color:#000000;
   text-decoration:none;
   font-size:16px;
   font-family:'Alegreya';
@@ -99,7 +99,7 @@ small {
 }
 
  a:hover {
- color:#F2AF13;
+ color:#000000;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
@@ -107,7 +107,7 @@ small {
 }
 
  a:active {
- color:#F2AF13;
+ color:#000000;
  text-decoration:underline;
  font-size:16px;
  font-family:'Alegreya';
@@ -115,7 +115,7 @@ small {
 }
 
  a:focus {
- color:#F2AF13;
+ color:#000000;
  font-size:16px;
  font-family:'Alegreya';
  font-weight:bold;
