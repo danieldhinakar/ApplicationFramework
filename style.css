@@ -59,12 +59,12 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: rgba (255,119,51);
+  color: #ff7733;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   background-color: rgba (255, 119,51) ;
-  color: rgba (255,119,51) ;
+  color: #ff7733;
   text-decoration:underline;
    
 }
@@ -109,6 +109,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgba (255, 119, 51) inset;
 }
+
 
 
 
