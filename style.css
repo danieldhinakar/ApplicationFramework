@@ -59,7 +59,14 @@
   color: #F2AF13;
 }
 
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+.navbar-default .navbar-nav > li > a:hover {
+	background-color:rgb (242, 175,19);
+	color:#F2AF13;
+	text-decoration:underline;
+
+}
+
+.navbar-default .navbar-nav > li > a:focus {
   background-color: rgb (242,175,19);
   color: #F2AF13;
   text-decoration:underline;
@@ -106,6 +113,7 @@
   border-top: 1px solid transparent;
   box-shadow: 0 0 0 rgb (242,175,19) inset;
 }
+
 
 
 
