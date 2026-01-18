@@ -59,19 +59,19 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-  color:#F2AF13;
+  color:#ff7733;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   background-color: rgba(0, 0, 0, 0);
-  color: #F2AF13;
+  color: #ff7733;
   text-decoration:underline;
    
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background-color: rgba(0, 0, 0, 0);
-  color: #F2AF13;
+  color: #ff7733;
  text-decoration:underline;
 }
 
@@ -80,7 +80,7 @@
 }
 
 .navbar-toggle {
-  background-color: rgba(0, 0, 0, 0);
+  background-color:#ff7733;
   border: 1px solid transparent;
   border-radius: 0 0 0 0;
   margin-right: 0px;
@@ -109,6 +109,7 @@
   border-top: 1px solid transparent;
   box-shadow: #ff7733;
 }
+
 
 
 
