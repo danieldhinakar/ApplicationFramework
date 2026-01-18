@@ -76,7 +76,7 @@
 }
 
 .navbar-default .navbar-toggle {
-  border-color: rgba(0, 0, 0, 0);
+  border-color: #ff7733;
 }
 
 .navbar-toggle {
@@ -87,7 +87,7 @@
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: #ff7733;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -95,7 +95,7 @@
 }
 
 .navbar-toggle .icon-bar {
-  border-radius: 0 0 0 0;
+  border-radius: #ff7733;
   display: block;
   height: 3px;
   width: 26px;
@@ -109,6 +109,7 @@
   border-top: 1px solid transparent;
   box-shadow: #ff7733;
 }
+
 
 
 
