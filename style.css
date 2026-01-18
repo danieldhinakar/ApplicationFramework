@@ -59,56 +59,57 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-  color:#ff7733;
+  color: rgb (255,119,51);
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  background-color: #ff7733;
-  color: #ff7733;
+  background-color: rgb (255, 119,51) ;
+  color: rgb (255,119,51) ;
   text-decoration:underline;
    
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #ff7733;
-  color: #ff7733;
+  background-color: rgb (255, 119,51) ;
+  color: rgb (255, 119,51) ;
  text-decoration:underline;
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #ff7733;
+  border-color: rgb (255, 119, 51) ;
 }
 
 .navbar-toggle {
-  background-color:#ff7733;
+  background-color: rgb (255, 119, 51) ;
   border: 1px solid transparent;
-  border-radius: #ff7733;
+  border-radius: rgb (255, 119, 51) ;
   margin-right: 0px;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #ff7733;
+  background-color: rgb (255, 119, 51) ;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color:#ff7733;
+  background-color: rgb (255, 119, 51) ;
 }
 
 .navbar-toggle .icon-bar {
-  border-radius: #ff7733;
+  border-radius: rgb (255, 119, 51) ;
   display: block;
   height: 3px;
   width: 26px;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border-color: #ff7733;
+  border-color: rgb (255, 119, 51) ;
 }
 
 .navbar-collapse {
   border-top: 1px solid transparent;
-  box-shadow: #ff7733;
+  box-shadow: rgb (255, 119, 51) ;
 }
+
 
 
 
