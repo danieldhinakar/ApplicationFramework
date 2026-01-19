@@ -82,6 +82,12 @@ small {
   color:#FFFFFF;
 }
 
+details {
+	background-color:none;
+	border-radius:none;
+}
+
+
 summary {
 	background-color:#AE6838;
 	border-radius: 30px;
