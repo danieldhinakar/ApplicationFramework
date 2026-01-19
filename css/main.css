@@ -81,6 +81,13 @@ small {
   font-family:'Alegreya';
   color:#FFFFFF;
 }
+
+details {
+	background-color:#00000;
+	border-radius: 30px;
+}
+
+
                                            
  a:link  {
  color:#000000;
@@ -130,6 +137,13 @@ list-style-type: none;
   float:center;
 	
 }
+
+
+
+
+
+
+
 
 nav {
   border-bottom:2px solid #e5e5e5;
