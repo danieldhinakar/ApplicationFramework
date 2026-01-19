@@ -82,23 +82,7 @@ small {
   color:#FFFFFF;
 }
 
-.details > summary {
-  padding: 4px;
-  width:100%;
-  background-color: #FFFFFF;
-  border: none;
-  box-shadow: 0px 0px 0px #FFFFFF;
-  cursor: pointer;
-}
 
-	
-.details > p {
-  background-color: #eeeeee;
-  padding: 4px;
-  margin: 0;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  border-radius:30px;
-}
 
 
 
