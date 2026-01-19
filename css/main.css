@@ -84,29 +84,30 @@ small {
 
 
 summary {
-	background-color:#FFFFFF;
-	border-radius: 30px;
+  padding: .5em 1.3rem;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;  
+  transition: height 1s ease;
 }
+	
 
-
-summary.div {
-  background-color:#000000;
-
-}
 	
 
 details {
 	background-color:#FFFFFFF;
-	border-radius:30px;
+	color: #fff;
+    font-size:25px;
+    border-radius:30px
+	
 }
 
-
-
+details div {
+	
+}
 
                                            
- a:link  {
- color:#000000;
- text-decoration:none;
+ a:line-decoration:none;
  font-size:16px;
  font-family:'Alegreya';
  font-weight:bold;
