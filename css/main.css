@@ -103,7 +103,7 @@ details {
 	
 }
 
-details > summary {
+details < summary {
   padding: 4px;
   width: 200px;
   background-color: #fff1e7;
@@ -112,7 +112,7 @@ details > summary {
   cursor: pointer;
 }
 
-details > p {
+details < p {
   background-color: #eeeeee;
   padding: 4px;
   margin: 0;
