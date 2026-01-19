@@ -97,6 +97,7 @@ details > p {
   padding: 4px;
   margin: 0;
   box-shadow: 1px 1px 2px #bbbbbb;
+  border-radius:30px;
 }
 
 
