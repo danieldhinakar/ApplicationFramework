@@ -89,7 +89,11 @@ summary {
 }
 
 
+summary.div {
+  background-color:#000000;
 
+}
+	
 
 details {
 	background-color:#FFFFFFF;
