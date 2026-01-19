@@ -82,7 +82,7 @@ small {
   color:#FFFFFF;
 }
 
-details > summary {
+.details > summary {
   padding: 4px;
   width:100%;
   background-color: #FFFFFF;
@@ -92,7 +92,7 @@ details > summary {
 }
 
 	
-details > p {
+.details > p {
   background-color: #eeeeee;
   padding: 4px;
   margin: 0;
