@@ -17,3 +17,29 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
+
+
+
+
+trigger:
+  branches:
+    include:
+      - main   # Run CI on pushes to main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+  - task: UsePHPVersion@0
+    inputs:
+      versionSpec: '8.2'   # Adjust to your PHP version
+    displayName: 'Set up PHP'
+
+  - script: php -v
+    displayName: 'Check PHP version'
+
+  - script: composer install --no-interaction --prefer-dist
+    displayName: 'Install dependencies'
+
+  - script: vendor/bin/phpunit --testdox
+    displayName: 'Run PHPUnit tests'
