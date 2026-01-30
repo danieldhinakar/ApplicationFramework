@@ -1,0 +1,4 @@
+reviews:
+  finishing_touches:
+    unit_tests:
+      enabled: true
