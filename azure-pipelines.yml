@@ -19,9 +19,3 @@ steps:
   displayName: 'Run a multi-line script'
 
 
-resources:
-  repositories:
-    - repository: ApplicationFramework
-      type: github
-      name: danieldhinakar/ApplicationFramework
-      ref: refs/heads/main   # or refs/tags/v1.0.0
