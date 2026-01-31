@@ -389,15 +389,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         });
     });
 
-    // Logout
-    document.getElementById("logoutBtn").addEventListener("click", () => {
-      signOut(auth).then(() => {
-        alert("Logged out");
-      }).catch(error => {
-        alert("Error: " + error.message);
-      });
-    });
-
     // Track login state
     onAuthStateChanged(auth, user => {
       if (user) {
@@ -646,6 +637,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
 </body>
 </html>    
+
 
 
 
