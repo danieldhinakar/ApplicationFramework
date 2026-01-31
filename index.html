@@ -344,22 +344,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
   
-<h2>Login with Google</h2>
-  <button id="googleLoginBtn">Login with Google</button>
-  <button id="logoutBtn">Logout</button>
+
+ <button onclick="googleSignin()"> GoogleSignIn</button>
+<script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
 
 
   
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.8.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.8.0/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
+  
+ <script>
+  // Initialize Firebase
+  var Config = {
     apiKey: "AIzaSyDpZdVB_XEAWjAzaEJRcE8axfl9P3JLSqY",
     authDomain: "daniel-dhinakar-2a7af.firebaseapp.com",
     projectId: "daniel-dhinakar-2a7af",
@@ -369,12 +365,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     measurementId: "G-CQ4ZWWTN60"
   };
 
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-
-
-   // Google provider
+firebase.initializeApp(config);
+  
+ // Google provider
     const provider = new GoogleAuthProvider();
 
     // Login with Google
@@ -637,6 +630,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
 </body>
 </html>    
+
 
 
 
